@@ -23,7 +23,7 @@ def read_dataset_dir():
     """
     Reads the dataset's directory from the user.
     """
-    suffix = input("Please enter the folder your images are located in.\n")
+    suffix = input("Please enter the folder your images are located in.\n>> ")
     directory = getcwd() + "\\" + suffix + "\\"
     return directory
 

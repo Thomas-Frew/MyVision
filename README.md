@@ -13,7 +13,7 @@ Computer vision is a field of AI, allowing computers to derive information from 
 
 <img src="Assets/0A.png" width="100%">
 
-### *Such as myself!*
+### *Like me!*
 
 ## Tools
 

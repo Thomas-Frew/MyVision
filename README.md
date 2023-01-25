@@ -114,7 +114,7 @@ This tools follows a similar process to the 2D Dataset generator, but every imag
 
 2. Open [Prediction Generator.ipynb](Prediction%20Generator.ipynb) in Jupyter Notebook, and execute all blocks of code (fast-forward button).
 
-3. Code block [3] will ask you to select a file for the OLS to make a prediction on.
+3. Code block [4] will ask you to select a file for the OLS to make a prediction on.
 <img src="Assets/5A.png" width="50%">
 
 4. The OLS makes a prediction on the selected file. This prediction is displayed.

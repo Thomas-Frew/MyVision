@@ -23,8 +23,7 @@ Each Visionary tool is its own [Jupyter Notebook](https://jupyter.org/), a type 
 
 - 4D Dataset Generator: Create a computer vision dataset from a folder of images. Each image is labelled with coordinates, representing a box around the target object.
 
-- CNN Trainer: Create an OLS from a computer vision dataset. More specifically, a [Convolutional Neural Network]
-(https://en.wikipedia.org/wiki/Convolutional_neural_network) (CNN) learns how to find the target object.
+- CNN Trainer: Create an OLS from a computer vision dataset. More specifically, a [Convolutional Neural Network](https://en.wikipedia.org/wiki/Convolutional_neural_network) (CNN) learns how to find the target object.
 
 - Feature Map Visualiser: Observe how your OLS "sees" some image, by visualising the data at each processing step.
 
